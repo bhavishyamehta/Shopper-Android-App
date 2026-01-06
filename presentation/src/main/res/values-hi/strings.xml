@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">शॉपर</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="already_have_an_account">पहले से खाता है? लॉगिन करें</string>
+    <string name="password">पासवर्ड</string>
+    <string name="email">ईमेल</string>
+    <string name="name">नाम</string>
+    <string name="login">लॉगिन करें</string>
+    <string name="dont_have_an_account">कोई खाता नहीं है? रजिस्टर करें</string>
+
+</resources>
